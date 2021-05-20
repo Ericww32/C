@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1508204099 source:e:\c_c++\cop3502\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1508986407 source:e:\c_c++\cop3502\src\listystring.c
+	"ListyString.h"
+	<stdio.h>
+	<stdlib.h>
+
+1508804720 e:\c_c++\cop3502\include\listystring.h
+
